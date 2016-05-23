@@ -1,0 +1,5 @@
+package fooz
+
+func Fooz() {
+
+}
