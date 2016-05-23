@@ -1,0 +1,5 @@
+package subbar
+
+func Subbar() {
+
+}
