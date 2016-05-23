@@ -4,8 +4,12 @@
 	"GodepVersion": "v62",
 	"Deps": [
 		{
+			"ImportPath": "github.com/ppalucki/bar/fooz",
+			"Rev": "887ce1d02e8fbf8aa19fdcebee5830b873c31931"
+		},
+		{
 			"ImportPath": "github.com/ppalucki/bar/subbar",
-			"Rev": "d7c42c233c4ec2b529b1e7e983513bec75792d69"
+			"Rev": "887ce1d02e8fbf8aa19fdcebee5830b873c31931"
 		}
 	]
 }
